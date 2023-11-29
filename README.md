@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Testing environment: https://pp-testlighthouse.netlify.app/
+Production environment: https://prod-testlighthouse.netlify.app/
 
 ## Getting Started
 
