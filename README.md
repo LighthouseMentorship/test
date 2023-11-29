@@ -1,5 +1,5 @@
--Testing environment: https://pp-testlighthouse.netlify.app/
--Production environment: https://prod-testlighthouse.netlify.app/
+- Testing environment: https://pp-testlighthouse.netlify.app/
+- Production environment: https://prod-testlighthouse.netlify.app/
 
 ## Getting Started
 
